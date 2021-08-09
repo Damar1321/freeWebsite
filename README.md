@@ -12,5 +12,5 @@
 ### 1. Open QuickEdit
 ### 2. Click Syntax
 <img src=".PNGFILE/Screenshot_20210809_080853.jpg" alt="">
-3. Click HTML
-### <img src=".PNGFILE/Screenshot_20210809_080902.jpg" alt="">
+### 3. Click HTML
+<img src=".PNGFILE/Screenshot_20210809_080902.jpg" alt="">
