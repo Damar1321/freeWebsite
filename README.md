@@ -19,4 +19,8 @@
 <img src=".PNGFILE/Screenshot_20210809_080902.jpg" alt="">
 
 ### 4. Make code <p><a href="https://www.google.com">Download template</a></p>
-### 5. Save to folder
+### 5. Save to folder with name index.html
+### 6. Open the browser app
+### 7. Type http://localhost:8080/index.html
+
+### <p><a href="https://youtu.be/RRmNVgJtOyM">WATCH FULL VIDEOS</a></p>
