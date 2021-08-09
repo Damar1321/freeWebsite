@@ -9,8 +9,8 @@
 </pre>
 # How to edit the website
 <pre>
-<h1>1. Open QuickEdit</h1>
-<h2>2. Click Syntax</h2>
+1. Open QuickEdit
+2. Click Syntax
 <img src=".PNGFILE/Screenshot_20210809_080853.jpg" alt="">
-<h3>3. Click HTML</h3>
+3. Click HTML
 <img src=".PNGFILE/Screenshot_20210809_080902.jpg" alt="">
